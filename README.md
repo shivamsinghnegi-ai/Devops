@@ -6,7 +6,6 @@ Run locally
 
 Install JDK 17 and Maven.
 
-Build and run tests:
 
 ```bash
 mvn -B clean package
